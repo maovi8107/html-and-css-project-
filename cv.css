@@ -1,0 +1,109 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: aqua;
+}
+.container{
+  max-width: 100%;
+  background-color: yellow;
+  margin: 0 auto;
+}
+
+<!-header start-->
+.header{
+}
+.profile-pic{
+  width: 200pxpx;
+  height: 240px;
+  border:3px solid white ;
+  border-radius: 50%;
+  margin: 5px;
+  padding: 5px;
+}
+.profile-bio{
+  float: right;
+}
+.div-clear{
+  clear: both;
+}
+hr{
+  border: 3px solid black;
+  width: 100%;
+  border-bottom: none;
+}
+<!-header end-->
+
+
+<!-main: personal-section start-->
+.personal-section{
+  
+}
+.left-div{
+  float: left;
+ width: 45%;
+ text-decoration: underline;5px
+ padding: 5px;
+}
+.right-div{
+  float: right;
+  width: 60%;
+  padding: 5px;
+}
+.common-hr{
+  border: 1px solid black;
+  border-bottom: none;
+  padding: 5px;
+  width: 100%;
+}
+<!-main: personal-section end-->
+
+<!-study-section start-->
+.-study-section{
+}
+.h2{
+  text-align: center;
+  text-decoration: underline;
+}
+.psc{
+  float: left;
+  width: 45%;
+  padding: 5px;
+}
+.jsc{
+  float:right;
+  width: 70%;
+  padding: 10px;
+  
+}
+.ssc{
+  float: left;
+  width: 45%;
+}
+.hsc{
+  float: right;
+  width: 65%;
+  padding: 5%;
+}
+<!-study-section end-->
+
+<!-work experience-section start-->
+<!-work experience-study-section end-->
+
+<!-footer-section start-->
+
+.footer-section{
+  
+}
+.bottom-container{
+  background-color: black;
+  text-align: center;
+  padding: 5px;
+}
+.bottom-container a{
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+}
+<!i-fotter-section end-->
